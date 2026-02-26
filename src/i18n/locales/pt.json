@@ -1,0 +1,198 @@
+{
+  "nav": {
+    "home": "Início",
+    "services": "Tratamentos",
+    "gallery": "Galeria",
+    "areas": "Localização",
+    "testimonials": "Testemunhos",
+    "contacts": "Contactos",
+    "requestQuote": "Marcar Consulta"
+  },
+  "hero": {
+    "badge": "+500 clientes satisfeitas",
+    "title": "Centro de Estética",
+    "titleHighlight": "Sublime",
+    "description": "Descubra a sua melhor versão. Tratamentos faciais e corporais personalizados com as técnicas mais avançadas e produtos premium.",
+    "benefit1": "Profissionais Certificadas",
+    "benefit2": "Produtos Premium",
+    "benefit3": "Resultados Garantidos",
+    "callNow": "Ligar Agora",
+    "formBadge": "CONSULTA GRATUITA",
+    "formTitle": "Marque a Sua Consulta",
+    "formSubtitle": "Resposta em menos de 24 horas",
+    "formName": "Nome",
+    "formNamePlaceholder": "O seu nome completo",
+    "formEmail": "Email",
+    "formEmailPlaceholder": "o.seu@email.com",
+    "formPhone": "Telefone",
+    "formPhonePlaceholder": "912 345 678",
+    "formService": "Tratamento",
+    "formServicePlaceholder": "Qual o tratamento que procura?",
+    "formConsent": "Aceito ser contactada para resposta ao meu pedido",
+    "formSubmit": "Marcar Consulta Gratuita",
+    "formSuccess": "Pedido enviado com sucesso! Entraremos em contacto em breve.",
+    "formError": "Erro ao enviar o pedido. Tente novamente.",
+    "formRequired": "Por favor preencha todos os campos.",
+    "formConsentRequired": "Por favor aceite ser contactada.",
+    "formInvalidEmail": "Por favor insira um email válido."
+  },
+  "trustBadges": {
+    "certified": "Profissionais Certificadas",
+    "certifiedDesc": "Formação especializada",
+    "experienced": "Experiência Comprovada",
+    "experiencedDesc": "Centenas de clientes felizes",
+    "rating": "Avaliação 5 Estrelas",
+    "ratingDesc": "+500 clientes satisfeitas",
+    "guarantee": "Produtos Premium",
+    "guaranteeDesc": "Marcas de referência",
+    "fast": "Atendimento Personalizado",
+    "fastDesc": "Foco em cada cliente"
+  },
+  "press": {
+    "seenIn": "Visto na imprensa",
+    "nitArticle": "\"Perda de peso, imunidade e controlo da acne: a máquina tudo-em-um chegou a Setúbal\""
+  },
+  "services": {
+    "sectionLabel": "Os nossos tratamentos",
+    "title": "Tratamentos & Serviços",
+    "description": "Oferecemos uma gama completa de tratamentos de estética facial e corporal com tecnologia avançada, sempre com a máxima qualidade e cuidado personalizado.",
+    "deepCleansing": "Limpeza de Pele",
+    "deepCleansingDesc": "Limpeza de pele profunda com extração, hidratação e revitalização para uma pele saudável e luminosa.",
+    "facialTreatments": "Tratamentos Faciais",
+    "facialTreatmentsDesc": "Tratamentos anti-idade, hidratação profunda, peeling e rejuvenescimento com tecnologia avançada.",
+    "hairRemoval": "Depilação",
+    "hairRemovalDesc": "Depilação a cera, laser ou luz pulsada com técnicas que minimizam o desconforto e garantem resultados duradouros.",
+    "massages": "Massagens",
+    "massagesDesc": "Massagens relaxantes, desportivas e terapêuticas para aliviar tensões e promover o bem-estar.",
+    "bodyTreatments": "Tratamentos Corporais",
+    "bodyTreatmentsDesc": "Modelação corporal, drenagem linfática, envolvimentos e tratamentos anti-celulite.",
+    "manicurePedicure": "Manicure & Pedicure",
+    "manicurePedicureDesc": "Serviço completo de manicure e pedicure com verniz gel, nail art e cuidados de mãos e pés.",
+    "weightLoss": "Perda de Peso",
+    "weightLossDesc": "Tecnologia inovadora tudo-em-um para perda de peso eficaz, com resultados visíveis e duradouros.",
+    "immunity": "Reforço de Imunidade",
+    "immunityDesc": "Tratamentos especializados para fortalecer o sistema imunitário e promover o bem-estar geral.",
+    "acneControl": "Controlo de Acne",
+    "acneControlDesc": "Soluções avançadas para o controlo e tratamento de acne, com tecnologia de última geração.",
+    "requestQuote": "Marcar Consulta",
+    "newBadge": "Novo",
+    "learnMore": "Saber mais"
+  },
+  "whyChooseUs": {
+    "sectionLabel": "Porquê escolher-nos",
+    "title": "O Que Nos Distingue",
+    "description": "Destacamo-nos pela qualidade dos tratamentos e pelo compromisso com a beleza e bem-estar de cada cliente.",
+    "fastResponse": "Atendimento Personalizado",
+    "fastResponseDesc": "Cada tratamento é adaptado às necessidades específicas da sua pele e do seu corpo.",
+    "transparent": "Preços Transparentes",
+    "transparentDesc": "Tabela de preços clara e detalhada, sem custos escondidos ou surpresas.",
+    "qualified": "Profissionais Qualificadas",
+    "qualifiedDesc": "Equipa com formação contínua nas técnicas e tendências mais recentes.",
+    "emergency": "Ambiente Relaxante",
+    "emergencyDesc": "Espaço acolhedor e confortável, pensado para o seu relaxamento total.",
+    "customerFocus": "Foco na Cliente",
+    "customerFocusDesc": "A sua satisfação e confiança são a nossa prioridade número um."
+  },
+  "gallery": {
+    "sectionLabel": "Portfólio",
+    "title": "O Nosso Trabalho",
+    "description": "Veja alguns dos nossos tratamentos e resultados que fazem as nossas clientes brilhar.",
+    "deepCleansing": "Facial",
+    "facialTreatments": "Tratamento",
+    "hairRemoval": "Depilação",
+    "massages": "Massagem",
+    "bodyTreatments": "Corporal",
+    "manicurePedicure": "Manicure",
+    "deepCleansingAlt": "Tratamento facial profissional",
+    "facialTreatmentsAlt": "Tratamento de rejuvenescimento",
+    "hairRemovalAlt": "Depilação profissional",
+    "massagesAlt": "Massagem relaxante",
+    "bodyTreatmentsAlt": "Tratamento corporal",
+    "manicurePedicureAlt": "Manicure com verniz gel",
+    "closeLightbox": "Fechar"
+  },
+  "testimonials": {
+    "sectionLabel": "Testemunhos",
+    "title": "O Que Dizem as Nossas Clientes",
+    "description": "A opinião das nossas clientes é o nosso maior orgulho e motivação.",
+    "reviews": "reviews",
+    "client1": {
+      "name": "Sofia Mendes",
+      "location": "Cliente Regular",
+      "text": "A Inês é fantástica! Fiz um tratamento facial e a minha pele ficou completamente renovada. Ambiente super acolhedor e relaxante."
+    },
+    "client2": {
+      "name": "Catarina Ferreira",
+      "location": "Cliente Regular",
+      "text": "As massagens são incríveis. Saio sempre relaxada e revigorada. Profissionalismo e atenção ao detalhe em cada sessão."
+    },
+    "client3": {
+      "name": "Ana Rodrigues",
+      "location": "Cliente Regular",
+      "text": "Adoro o serviço de manicure! O verniz gel dura semanas e os designs são sempre impecáveis. Recomendo a 100%!"
+    },
+    "client4": {
+      "name": "Mariana Costa",
+      "location": "Cliente Regular",
+      "text": "Os tratamentos corporais mudaram a minha confiança. Resultados visíveis desde a primeira sessão. Equipa maravilhosa!"
+    }
+  },
+  "areas": {
+    "sectionLabel": "Onde estamos",
+    "title": "Localização",
+    "description": "Visite-nos no nosso espaço e descubra um ambiente pensado para o seu conforto e bem-estar.",
+    "notFound": "Dúvidas sobre como chegar? Contacte-nos que ajudamos!"
+  },
+  "finalCta": {
+    "badge": "Consulta Gratuita",
+    "title": "Pronta para se sentir",
+    "titleHighlight": "Sublime?",
+    "description": "Marque a sua consulta gratuita e sem compromisso. Descubra o tratamento ideal para si.",
+    "requestQuote": "Marcar Consulta Gratuita",
+    "noCommitment": "Sem compromisso",
+    "fastResponse": "Resposta rápida",
+    "qualityGuarantee": "Resultados garantidos"
+  },
+  "footer": {
+    "description": "Centro de estética dedicado à sua beleza e bem-estar. Tratamentos faciais, corporais e muito mais.",
+    "quickLinks": "Links Rápidos",
+    "servicesTitle": "Tratamentos",
+    "contactsTitle": "Contactos",
+    "location": "Sublime by Inês Gonçalves",
+    "copyright": "© 2025 Sublime by Inês Gonçalves. Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos e Condições"
+  },
+  "chat": {
+    "title": "Precisa de ajuda?",
+    "subtitle": "Estamos aqui para si",
+    "greeting": "Olá! 👋 Como podemos ajudar? Escolha uma das opções abaixo para marcar a sua consulta ou esclarecer dúvidas.",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Resposta rápida",
+    "callNow": "Ligar Agora",
+    "hours": "Seg-Sáb: 9h-19h"
+  },
+  "faq": {
+    "sectionLabel": "Perguntas Frequentes",
+    "title": "Dúvidas? Nós Respondemos",
+    "description": "Reunimos as perguntas mais comuns das nossas clientes para que possa esclarecer todas as suas dúvidas.",
+    "q1": "Preciso de marcar consulta ou posso ir sem marcação?",
+    "a1": "Recomendamos sempre a marcação prévia para garantir disponibilidade e um atendimento personalizado. Pode marcar através do formulário no site, WhatsApp ou telefone.",
+    "q2": "As consultas de avaliação são gratuitas?",
+    "a2": "Sim! A primeira consulta de avaliação é totalmente gratuita e sem compromisso. Avaliamos as suas necessidades e recomendamos o tratamento mais adequado.",
+    "q3": "Quanto tempo dura cada sessão de tratamento?",
+    "a3": "Depende do tratamento escolhido. Em média, as sessões variam entre 30 minutos e 1h30. Na consulta de avaliação informamos a duração exata de cada tratamento.",
+    "q4": "Que métodos de pagamento aceitam?",
+    "a4": "Aceitamos pagamento em dinheiro, Multibanco, MB Way e transferência bancária. Também disponibilizamos planos de pagamento para pacotes de tratamentos.",
+    "q5": "Os tratamentos são seguros e têm efeitos secundários?",
+    "a5": "Todos os nossos tratamentos são realizados por profissionais certificadas com produtos e equipamentos aprovados. Na consulta de avaliação explicamos tudo sobre o tratamento, incluindo possíveis cuidados pós-sessão.",
+    "q6": "Posso oferecer tratamentos como presente?",
+    "a6": "Sim! Temos vouchers de presente disponíveis para qualquer tratamento ou valor. É uma ótima forma de surpreender alguém especial. Contacte-nos para mais informações."
+  },
+  "common": {
+    "home": "Início",
+    "services": "Tratamentos",
+    "gallery": "Galeria",
+    "testimonials": "Testemunhos"
+  }
+}

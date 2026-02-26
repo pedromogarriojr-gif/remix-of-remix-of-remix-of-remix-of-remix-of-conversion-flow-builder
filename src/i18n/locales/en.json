@@ -1,0 +1,198 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Treatments",
+    "gallery": "Gallery",
+    "areas": "Location",
+    "testimonials": "Testimonials",
+    "contacts": "Contacts",
+    "requestQuote": "Book Now"
+  },
+  "hero": {
+    "badge": "+500 satisfied clients",
+    "title": "Beauty Center",
+    "titleHighlight": "Sublime",
+    "description": "Discover your best version. Personalized facial and body treatments with the most advanced techniques and premium products.",
+    "benefit1": "Certified Professionals",
+    "benefit2": "Premium Products",
+    "benefit3": "Guaranteed Results",
+    "callNow": "Call Now",
+    "formBadge": "FREE CONSULTATION",
+    "formTitle": "Book Your Consultation",
+    "formSubtitle": "Response within 24 hours",
+    "formName": "Name",
+    "formNamePlaceholder": "Your full name",
+    "formEmail": "Email",
+    "formEmailPlaceholder": "your@email.com",
+    "formPhone": "Phone",
+    "formPhonePlaceholder": "912 345 678",
+    "formService": "Treatment",
+    "formServicePlaceholder": "Which treatment are you looking for?",
+    "formConsent": "I agree to be contacted regarding my request",
+    "formSubmit": "Book Free Consultation",
+    "formSuccess": "Request sent successfully! We'll be in touch soon.",
+    "formError": "Error sending request. Please try again.",
+    "formRequired": "Please fill in all fields.",
+    "formConsentRequired": "Please accept to be contacted.",
+    "formInvalidEmail": "Please enter a valid email address."
+  },
+  "trustBadges": {
+    "certified": "Certified Professionals",
+    "certifiedDesc": "Specialized training",
+    "experienced": "Proven Experience",
+    "experiencedDesc": "Hundreds of happy clients",
+    "rating": "5 Star Rating",
+    "ratingDesc": "+500 satisfied clients",
+    "guarantee": "Premium Products",
+    "guaranteeDesc": "Leading brands",
+    "fast": "Personalized Care",
+    "fastDesc": "Focus on each client"
+  },
+  "press": {
+    "seenIn": "As seen in the press",
+    "nitArticle": "\"Weight loss, immunity and acne control: the all-in-one machine has arrived in Setúbal\""
+  },
+  "services": {
+    "sectionLabel": "Our treatments",
+    "title": "Treatments & Services",
+    "description": "We offer a complete range of facial and body aesthetic treatments with advanced technology, always with the highest quality and personalized care.",
+    "deepCleansing": "Deep Cleansing",
+    "deepCleansingDesc": "Deep skin cleansing with extraction, hydration and revitalization for healthy, luminous skin.",
+    "facialTreatments": "Facial Treatments",
+    "facialTreatmentsDesc": "Anti-aging treatments, deep hydration, peeling and rejuvenation with advanced technology.",
+    "hairRemoval": "Hair Removal",
+    "hairRemovalDesc": "Wax, laser or IPL hair removal with techniques that minimize discomfort and ensure lasting results.",
+    "massages": "Massages",
+    "massagesDesc": "Relaxing, sports and therapeutic massages to relieve tension and promote well-being.",
+    "bodyTreatments": "Body Treatments",
+    "bodyTreatmentsDesc": "Body contouring, lymphatic drainage, wraps and anti-cellulite treatments.",
+    "manicurePedicure": "Manicure & Pedicure",
+    "manicurePedicureDesc": "Complete manicure and pedicure service with gel polish, nail art and hand and foot care.",
+    "weightLoss": "Weight Loss",
+    "weightLossDesc": "Innovative all-in-one technology for effective weight loss, with visible and lasting results.",
+    "immunity": "Immunity Boost",
+    "immunityDesc": "Specialized treatments to strengthen the immune system and promote overall well-being.",
+    "acneControl": "Acne Control",
+    "acneControlDesc": "Advanced solutions for acne control and treatment, with cutting-edge technology.",
+    "requestQuote": "Book Now",
+    "newBadge": "New",
+    "learnMore": "Learn more"
+  },
+  "whyChooseUs": {
+    "sectionLabel": "Why choose us",
+    "title": "What Sets Us Apart",
+    "description": "We stand out for the quality of our treatments and our commitment to each client's beauty and well-being.",
+    "fastResponse": "Personalized Care",
+    "fastResponseDesc": "Each treatment is tailored to your skin and body's specific needs.",
+    "transparent": "Transparent Pricing",
+    "transparentDesc": "Clear and detailed price list, with no hidden costs or surprises.",
+    "qualified": "Qualified Professionals",
+    "qualifiedDesc": "Team with ongoing training in the latest techniques and trends.",
+    "emergency": "Relaxing Environment",
+    "emergencyDesc": "Welcoming and comfortable space, designed for your total relaxation.",
+    "customerFocus": "Client Focus",
+    "customerFocusDesc": "Your satisfaction and confidence are our number one priority."
+  },
+  "gallery": {
+    "sectionLabel": "Portfolio",
+    "title": "Our Work",
+    "description": "See some of our treatments and results that make our clients glow.",
+    "deepCleansing": "Facial",
+    "facialTreatments": "Treatment",
+    "hairRemoval": "Hair Removal",
+    "massages": "Massage",
+    "bodyTreatments": "Body",
+    "manicurePedicure": "Manicure",
+    "deepCleansingAlt": "Professional facial treatment",
+    "facialTreatmentsAlt": "Rejuvenation treatment",
+    "hairRemovalAlt": "Professional hair removal",
+    "massagesAlt": "Relaxing massage",
+    "bodyTreatmentsAlt": "Body treatment",
+    "manicurePedicureAlt": "Gel manicure",
+    "closeLightbox": "Close"
+  },
+  "testimonials": {
+    "sectionLabel": "Testimonials",
+    "title": "What Our Clients Say",
+    "description": "Our clients' opinions are our greatest pride and motivation.",
+    "reviews": "reviews",
+    "client1": {
+      "name": "Sofia Mendes",
+      "location": "Regular Client",
+      "text": "Inês is fantastic! I had a facial treatment and my skin was completely renewed. Super cozy and relaxing atmosphere."
+    },
+    "client2": {
+      "name": "Catarina Ferreira",
+      "location": "Regular Client",
+      "text": "The massages are incredible. I always leave relaxed and refreshed. Professionalism and attention to detail in every session."
+    },
+    "client3": {
+      "name": "Ana Rodrigues",
+      "location": "Regular Client",
+      "text": "I love the manicure service! The gel polish lasts weeks and the designs are always flawless. 100% recommend!"
+    },
+    "client4": {
+      "name": "Mariana Costa",
+      "location": "Regular Client",
+      "text": "The body treatments changed my confidence. Visible results from the first session. Wonderful team!"
+    }
+  },
+  "areas": {
+    "sectionLabel": "Where we are",
+    "title": "Location",
+    "description": "Visit us in our space and discover an environment designed for your comfort and well-being.",
+    "notFound": "Questions about how to get here? Contact us and we'll help!"
+  },
+  "finalCta": {
+    "badge": "Free Consultation",
+    "title": "Ready to feel",
+    "titleHighlight": "Sublime?",
+    "description": "Book your free, no-obligation consultation. Discover the ideal treatment for you.",
+    "requestQuote": "Book Free Consultation",
+    "noCommitment": "No commitment",
+    "fastResponse": "Quick response",
+    "qualityGuarantee": "Guaranteed results"
+  },
+  "footer": {
+    "description": "Beauty center dedicated to your beauty and well-being. Facial, body treatments and much more.",
+    "quickLinks": "Quick Links",
+    "servicesTitle": "Treatments",
+    "contactsTitle": "Contacts",
+    "location": "Sublime by Inês Gonçalves",
+    "copyright": "© 2025 Sublime by Inês Gonçalves. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions"
+  },
+  "chat": {
+    "title": "Need help?",
+    "subtitle": "We're here for you",
+    "greeting": "Hello! 👋 How can we help? Choose one of the options below to book your consultation or ask questions.",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Quick response",
+    "callNow": "Call Now",
+    "hours": "Mon-Sat: 9am-7pm"
+  },
+  "faq": {
+    "sectionLabel": "Frequently Asked Questions",
+    "title": "Got Questions? We've Got Answers",
+    "description": "We've gathered the most common questions from our clients so you can clear up any doubts.",
+    "q1": "Do I need to book an appointment or can I walk in?",
+    "a1": "We always recommend booking in advance to ensure availability and personalized care. You can book through the form on our website, WhatsApp or phone.",
+    "q2": "Are evaluation consultations free?",
+    "a2": "Yes! The first evaluation consultation is completely free and with no obligation. We assess your needs and recommend the most suitable treatment.",
+    "q3": "How long does each treatment session last?",
+    "a3": "It depends on the treatment chosen. On average, sessions range from 30 minutes to 1.5 hours. During the evaluation consultation we'll inform you of the exact duration.",
+    "q4": "What payment methods do you accept?",
+    "a4": "We accept cash, debit card, MB Way and bank transfer. We also offer payment plans for treatment packages.",
+    "q5": "Are the treatments safe and are there side effects?",
+    "a5": "All our treatments are performed by certified professionals with approved products and equipment. During the evaluation consultation we explain everything about the treatment, including any post-session care.",
+    "q6": "Can I gift treatments to someone?",
+    "a6": "Yes! We have gift vouchers available for any treatment or value. It's a great way to surprise someone special. Contact us for more information."
+  },
+  "common": {
+    "home": "Home",
+    "services": "Treatments",
+    "gallery": "Gallery",
+    "testimonials": "Testimonials"
+  }
+}
