@@ -55,11 +55,12 @@ const HeroSection = () => {
 
       if (error) throw error;
 
-      fetch("https://hook.eu2.make.com/1lnjqw3ztnnoqf6j09dmqth735mkqajh", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: result.data.name, email: result.data.email, phone: result.data.phone, service: result.data.service }),
-      }).catch(() => {});
+      // TODO: Adicionar webhook URL para notificações externas
+      // fetch("https://your-webhook-url.com", {
+      //   method: "POST",
+      //   headers: { "Content-Type": "application/json" },
+      //   body: JSON.stringify({ name: result.data.name, email: result.data.email, phone: result.data.phone, service: result.data.service }),
+      // }).catch(() => {});
 
       toast.success(t("hero.formSuccess"));
       setName("");
@@ -155,7 +156,7 @@ const HeroSection = () => {
               transition={{ duration: 0.5, delay: 0.7 }}
               className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start"
             >
-              <a href="tel:+351912969670">
+              <a href="tel:+351000000000">
                 <Button variant="hero" size="xl" className="gap-3 w-full sm:w-auto shadow-glow">
                   <Phone className="w-5 h-5" aria-hidden="true" />
                   {t("hero.callNow")}

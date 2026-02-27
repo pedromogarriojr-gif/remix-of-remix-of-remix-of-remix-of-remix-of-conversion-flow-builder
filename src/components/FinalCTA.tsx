@@ -55,14 +55,14 @@ const FinalCTA = () => {
               </Button>
             </motion.a>
             <motion.a 
-              href="tel:+351912969670" 
+              href="tel:+351000000000" 
               className="w-full sm:w-auto"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
             >
               <Button variant="heroOutline" size="xl" className="gap-3 w-full sm:w-auto text-base lg:text-lg">
                 <Phone className="w-5 h-5 lg:w-6 lg:h-6" />
-                912 969 670
+                000 000 000
               </Button>
             </motion.a>
           </div>

@@ -68,7 +68,7 @@ const Reviews = () => {
               className="text-5xl font-bold text-white tracking-tight drop-shadow-lg"
               style={{ fontFamily: "'Cormorant Garamond', serif" }}
             >
-              Sublime
+              O Seu Negócio
             </span>
           </a>
         </div>
@@ -237,7 +237,7 @@ const Reviews = () => {
 
         {/* Footer */}
         <p className="text-center text-white/30 text-xs mt-6">
-          © {new Date().getFullYear()} Sublime. Todos os direitos reservados.
+          © {new Date().getFullYear()} O Seu Negócio. Todos os direitos reservados.
         </p>
       </motion.div>
     </div>

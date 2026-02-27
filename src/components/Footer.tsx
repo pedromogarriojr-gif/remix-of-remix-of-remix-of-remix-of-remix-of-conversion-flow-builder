@@ -24,7 +24,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="col-span-2 lg:col-span-1">
             <div className="flex items-center gap-3 mb-5">
-              <span className="font-bold text-xl lg:text-2xl" style={{ fontFamily: "'Cormorant Garamond', serif" }}>Sublime</span>
+              <span className="font-bold text-xl lg:text-2xl" style={{ fontFamily: "'Cormorant Garamond', serif" }}>O Seu Negócio</span>
             </div>
             <p className="text-white/70 mb-6 leading-relaxed">
               {t("footer.description")}
@@ -97,13 +97,13 @@ const Footer = () => {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="tel:+351912969670"
+                  href="tel:+351000000000"
                   className="flex items-center gap-3 text-white/70 hover:text-accent transition-colors duration-200 group cursor-pointer"
                 >
                   <div className="w-10 h-10 bg-accent/20 rounded-xl flex items-center justify-center group-hover:bg-accent/30 transition-colors duration-200 flex-shrink-0">
                     <Phone className="w-5 h-5 text-accent" aria-hidden="true" />
                   </div>
-                  <span className="font-medium">912 969 670</span>
+                  <span className="font-medium">000 000 000</span>
                 </a>
               </li>
               <li>

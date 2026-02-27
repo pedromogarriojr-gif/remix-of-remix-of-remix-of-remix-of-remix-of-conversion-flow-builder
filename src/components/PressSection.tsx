@@ -21,14 +21,15 @@ const PressSection = () => {
           </div>
 
           <a
-            href="https://newinsetubal.nit.pt/compras/perda-de-peso-imunidade-e-controlo-da-acne-a-maquina-tudo-em-um-chegou-a-setubal"
+            href="#" 
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-4 bg-card border border-border rounded-2xl px-6 py-4 hover:border-accent/40 shadow-premium hover:shadow-premium-lg transition-all duration-300"
           >
             <div className="flex flex-col">
               <span className="font-bold text-foreground text-base group-hover:text-accent transition-colors">
-                NiT / New in Setúbal
+                {/* TODO: Adicionar nome da publicação */}
+                Nome da Publicação
               </span>
               <span className="text-sm text-muted-foreground leading-snug mt-1">
                 {t("press.nitArticle")}

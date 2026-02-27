@@ -38,16 +38,16 @@ const Header = () => {
       <div className="container-custom">
         <div className="flex items-center justify-between">
           {/* Logo with tagline */}
-          <a href="#inicio" className="relative group flex items-baseline gap-1.5" aria-label="Sublime by Inês Gonçalves - Home">
+          <a href="#inicio" className="relative group flex items-baseline gap-1.5" aria-label="O Seu Negócio - Centro de Estética">
             <span className={`text-2xl lg:text-3xl font-bold tracking-tight transition-colors duration-300 ${
               isScrolled ? "text-foreground" : "text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]"
             }`} style={{ fontFamily: "'Cormorant Garamond', serif" }}>
-              Sublime
+              O Seu Negócio
             </span>
             <span className={`text-[10px] lg:text-xs font-medium tracking-wide transition-colors duration-300 ${
               isScrolled ? "text-muted-foreground" : "text-white/70 drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]"
             }`} style={{ fontFamily: "'Nunito Sans', sans-serif" }}>
-              by Inês Gonçalves
+              Centro de Estética
             </span>
           </a>
 
@@ -125,7 +125,7 @@ const Header = () => {
                   ))}
                 </div>
                 <div className="flex flex-col gap-3 mt-6 pt-6 border-t border-border">
-                  <a href="tel:+351912969670" className="w-full">
+                  <a href="tel:+351000000000" className="w-full">
                     <Button
                       variant="outline"
                       size="lg"
@@ -133,7 +133,7 @@ const Header = () => {
                       onClick={() => setIsMobileMenuOpen(false)}
                     >
                       <Phone className="w-4 h-4" aria-hidden="true" />
-                      912 969 670
+                      000 000 000
                     </Button>
                   </a>
                   <a href="#orcamento" className="w-full">
