@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Sparkles, CreditCard, GraduationCap, Flower2, Heart } from "lucide-react";
+import { Sparkles, CreditCard, GraduationCap, Flower2 } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 const WhyChooseUs = () => {
@@ -10,7 +10,6 @@ const WhyChooseUs = () => {
     { icon: CreditCard, title: t("whyChooseUs.transparent"), description: t("whyChooseUs.transparentDesc"), gradient: "from-amber-400 to-orange-500" },
     { icon: GraduationCap, title: t("whyChooseUs.qualified"), description: t("whyChooseUs.qualifiedDesc"), gradient: "from-purple-400 to-violet-500" },
     { icon: Flower2, title: t("whyChooseUs.emergency"), description: t("whyChooseUs.emergencyDesc"), gradient: "from-teal-400 to-cyan-500" },
-    { icon: Heart, title: t("whyChooseUs.customerFocus"), description: t("whyChooseUs.customerFocusDesc"), gradient: "from-pink-400 to-rose-500" },
   ];
 
   return (
@@ -35,7 +34,7 @@ const WhyChooseUs = () => {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 lg:gap-8">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-8">
           {reasons.map((reason, index) => (
             <motion.div
               key={reason.title}
