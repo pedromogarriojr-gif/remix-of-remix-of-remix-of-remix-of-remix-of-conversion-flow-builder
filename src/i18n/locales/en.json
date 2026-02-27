@@ -11,7 +11,7 @@
   "hero": {
     "badge": "+500 satisfied clients",
     "title": "Beauty Center",
-    "titleHighlight": "Sublime",
+    "titleHighlight": "Premium",
     "description": "Discover your best version. Personalized facial and body treatments with the most advanced techniques and premium products.",
     "benefit1": "Certified Professionals",
     "benefit2": "Premium Products",
@@ -25,7 +25,7 @@
     "formEmail": "Email",
     "formEmailPlaceholder": "your@email.com",
     "formPhone": "Phone",
-    "formPhonePlaceholder": "912 345 678",
+    "formPhonePlaceholder": "000 000 000",
     "formService": "Treatment",
     "formServicePlaceholder": "Which treatment are you looking for?",
     "formConsent": "I agree to be contacted regarding my request",
@@ -50,7 +50,7 @@
   },
   "press": {
     "seenIn": "As seen in the press",
-    "nitArticle": "\"Weight loss, immunity and acne control: the all-in-one machine has arrived in Setúbal\""
+    "nitArticle": "\"Your press article here — add your publication reference\""
   },
   "services": {
     "sectionLabel": "Our treatments",
@@ -117,22 +117,22 @@
     "description": "Our clients' opinions are our greatest pride and motivation.",
     "reviews": "reviews",
     "client1": {
-      "name": "Sofia Mendes",
+      "name": "Maria Silva",
       "location": "Regular Client",
-      "text": "Inês is fantastic! I had a facial treatment and my skin was completely renewed. Super cozy and relaxing atmosphere."
+      "text": "The team is fantastic! I had a facial treatment and my skin was completely renewed. Super cozy and relaxing atmosphere."
     },
     "client2": {
-      "name": "Catarina Ferreira",
+      "name": "Ana Santos",
       "location": "Regular Client",
       "text": "The massages are incredible. I always leave relaxed and refreshed. Professionalism and attention to detail in every session."
     },
     "client3": {
-      "name": "Ana Rodrigues",
+      "name": "Joana Ferreira",
       "location": "Regular Client",
       "text": "I love the manicure service! The gel polish lasts weeks and the designs are always flawless. 100% recommend!"
     },
     "client4": {
-      "name": "Mariana Costa",
+      "name": "Catarina Costa",
       "location": "Regular Client",
       "text": "The body treatments changed my confidence. Visible results from the first session. Wonderful team!"
     }
@@ -146,7 +146,7 @@
   "finalCta": {
     "badge": "Free Consultation",
     "title": "Ready to feel",
-    "titleHighlight": "Sublime?",
+    "titleHighlight": "Special?",
     "description": "Book your free, no-obligation consultation. Discover the ideal treatment for you.",
     "requestQuote": "Book Free Consultation",
     "noCommitment": "No commitment",
@@ -158,8 +158,8 @@
     "quickLinks": "Quick Links",
     "servicesTitle": "Treatments",
     "contactsTitle": "Contacts",
-    "location": "Sublime by Inês Gonçalves",
-    "copyright": "© 2025 Sublime by Inês Gonçalves. All rights reserved.",
+    "location": "Your Business - Beauty Center",
+    "copyright": "© 2025 Your Business. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms and Conditions"
   },

@@ -11,7 +11,7 @@
   "hero": {
     "badge": "+500 clientes satisfeitas",
     "title": "Centro de Estética",
-    "titleHighlight": "Sublime",
+    "titleHighlight": "Premium",
     "description": "Descubra a sua melhor versão. Tratamentos faciais e corporais personalizados com as técnicas mais avançadas e produtos premium.",
     "benefit1": "Profissionais Certificadas",
     "benefit2": "Produtos Premium",
@@ -25,7 +25,7 @@
     "formEmail": "Email",
     "formEmailPlaceholder": "o.seu@email.com",
     "formPhone": "Telefone",
-    "formPhonePlaceholder": "912 345 678",
+    "formPhonePlaceholder": "000 000 000",
     "formService": "Tratamento",
     "formServicePlaceholder": "Qual o tratamento que procura?",
     "formConsent": "Aceito ser contactada para resposta ao meu pedido",
@@ -50,7 +50,7 @@
   },
   "press": {
     "seenIn": "Visto na imprensa",
-    "nitArticle": "\"Perda de peso, imunidade e controlo da acne: a máquina tudo-em-um chegou a Setúbal\""
+    "nitArticle": "\"O seu artigo de imprensa aqui — adicione a referência da sua publicação\""
   },
   "services": {
     "sectionLabel": "Os nossos tratamentos",
@@ -117,22 +117,22 @@
     "description": "A opinião das nossas clientes é o nosso maior orgulho e motivação.",
     "reviews": "reviews",
     "client1": {
-      "name": "Sofia Mendes",
+      "name": "Maria Silva",
       "location": "Cliente Regular",
-      "text": "A Inês é fantástica! Fiz um tratamento facial e a minha pele ficou completamente renovada. Ambiente super acolhedor e relaxante."
+      "text": "A equipa é fantástica! Fiz um tratamento facial e a minha pele ficou completamente renovada. Ambiente super acolhedor e relaxante."
     },
     "client2": {
-      "name": "Catarina Ferreira",
+      "name": "Ana Santos",
       "location": "Cliente Regular",
       "text": "As massagens são incríveis. Saio sempre relaxada e revigorada. Profissionalismo e atenção ao detalhe em cada sessão."
     },
     "client3": {
-      "name": "Ana Rodrigues",
+      "name": "Joana Ferreira",
       "location": "Cliente Regular",
       "text": "Adoro o serviço de manicure! O verniz gel dura semanas e os designs são sempre impecáveis. Recomendo a 100%!"
     },
     "client4": {
-      "name": "Mariana Costa",
+      "name": "Catarina Costa",
       "location": "Cliente Regular",
       "text": "Os tratamentos corporais mudaram a minha confiança. Resultados visíveis desde a primeira sessão. Equipa maravilhosa!"
     }
@@ -146,7 +146,7 @@
   "finalCta": {
     "badge": "Consulta Gratuita",
     "title": "Pronta para se sentir",
-    "titleHighlight": "Sublime?",
+    "titleHighlight": "Especial?",
     "description": "Marque a sua consulta gratuita e sem compromisso. Descubra o tratamento ideal para si.",
     "requestQuote": "Marcar Consulta Gratuita",
     "noCommitment": "Sem compromisso",
@@ -158,8 +158,8 @@
     "quickLinks": "Links Rápidos",
     "servicesTitle": "Tratamentos",
     "contactsTitle": "Contactos",
-    "location": "Sublime by Inês Gonçalves",
-    "copyright": "© 2025 Sublime by Inês Gonçalves. Todos os direitos reservados.",
+    "location": "O Seu Negócio - Centro de Estética",
+    "copyright": "© 2025 O Seu Negócio. Todos os direitos reservados.",
     "privacy": "Política de Privacidade",
     "terms": "Termos e Condições"
   },
