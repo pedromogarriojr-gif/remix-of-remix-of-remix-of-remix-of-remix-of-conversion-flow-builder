@@ -1,46 +1,56 @@
 
 
-# Redesign Services & Gallery Sections
+# Template Generico de Site para Esteticista
 
-## Problem
-Currently there are 9 service cards in a 3x3 grid and 6 gallery images in a 3x2 grid -- too many blocks making the page feel repetitive and cluttered.
+## Objetivo
+Transformar o site atual num template generico de negocio de estetica, removendo toda a marca "Sublime by Ines Goncalves" e substituindo por placeholders facilmente personalizaveis.
 
-## Services Section Changes
+## O que vai mudar
 
-**Reduce from 9 to 6 cards** by grouping related services:
-- Merge "Weight Loss" + "Immunity" + "Acne Control" (the 3 "new" highlighted items) into a single featured card
-- Keep the 6 core services but redesign the layout
+### 1. Remover branding especifico
+- **Header**: Substituir "Sublime" e "by Ines Goncalves" por placeholders genericos (ex: "O Seu Negocio" / "Centro de Estetica")
+- **Footer**: Remover "Sublime by Ines Goncalves" do copyright e descricao
+- **FinalCTA**: Substituir "Sublime?" por texto generico
+- **Reviews page**: Substituir "Sublime" por placeholder
+- **index.html**: Atualizar titulo, meta description, og tags, author e canonical URL
 
-**New layout -- Bento grid style:**
-- Row 1: 1 large featured card (spans 2 columns) + 1 regular card
-- Row 2: 1 regular card + 1 large featured card (spans 2 columns)
-- Row 3: 3 equal cards (the "new" treatments grouped visually)
+### 2. Remover dados pessoais
+- **Telefone**: Substituir 912 969 670 por placeholder (ex: "000 000 000")
+- **WhatsApp**: Atualizar link wa.me com numero generico
+- **Redes sociais** (`src/config/social.ts`): Limpar URLs do Facebook e Instagram
+- **Webhook Make.com**: Remover URL do webhook em HeroSection (deixar comentario TODO)
+- **Google Reviews**: Manter placeholder que ja existe
 
-This creates visual hierarchy and breaks the monotonous grid pattern. The large cards will show the image as a full background with text overlaid, while smaller cards keep the current stacked layout.
+### 3. Atualizar traducoes (pt.json e en.json)
+- Substituir todas as mencoes a "Sublime", "Ines Goncalves", "Setubal" por placeholders genericos
+- Testemunhos: Manter como exemplos mas com nomes genericos
+- Press section: Substituir artigo especifico por placeholder generico
+- Manter toda a estrutura e textos de servicos (sao genericos o suficiente)
 
-**Visual improvements:**
-- Taller image areas on featured cards (full-height background with gradient overlay)
-- Subtle reveal animation staggered per card
-- Remove redundant descriptions on smaller cards (title + short tagline only)
+### 4. Ficheiros a modificar
 
-## Gallery Section Changes
+| Ficheiro | Alteracao |
+|----------|-----------|
+| `index.html` | Titulo, meta tags, canonical |
+| `src/config/social.ts` | Limpar URLs |
+| `src/components/Header.tsx` | Nome do negocio generico |
+| `src/components/HeroSection.tsx` | Remover webhook, telefone placeholder |
+| `src/components/FinalCTA.tsx` | Texto generico no CTA |
+| `src/components/FloatingChat.tsx` | Telefone/WhatsApp placeholder |
+| `src/components/Footer.tsx` | Copyright generico |
+| `src/pages/Reviews.tsx` | Logo generico |
+| `src/i18n/locales/pt.json` | Remover branding dos textos |
+| `src/i18n/locales/en.json` | Remover branding dos textos |
 
-**Reduce from 6 to 4 images** in a masonry-style layout:
-- 1 tall image (spans 2 rows, left side)
-- 2 small images (stacked right side, top)
-- 1 wide image (spans full width or 2 columns, bottom)
+### 5. O que se mantem
+- Toda a estrutura e layout do site
+- Todos os componentes e seccoes
+- Todas as animacoes e estilos
+- Imagens de servicos e galeria (sao genericas)
+- Sistema de traducao PT/EN
+- Formulario de contacto (sem webhook)
+- Pagina de Reviews
+- Cores e tipografia (rose gold / premium aesthetic)
 
-This creates a magazine-style look that is much more visually striking than a uniform grid.
-
-## Technical Details
-
-### Files to modify
-- `src/components/ServicesSection.tsx` -- restructure grid to bento layout, reduce to 6 services, add size variants
-- `src/components/GallerySection.tsx` -- reduce to 4 images, implement masonry/asymmetric grid layout
-- `src/index.css` -- add any utility classes needed for the bento grid
-
-### No changes needed to
-- Translation files (existing keys still work, just fewer items displayed)
-- Backend / database
-- Other components
-
+## Resultado
+Um template pronto a usar que pode ser facilmente personalizado para qualquer negocio de estetica, bastando alterar os placeholders nos ficheiros de traducao e configuracao.
